@@ -1,0 +1,1420 @@
+﻿Log file open, 03/12/24 09:37:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=23336)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EmiliaNatkaniec_FPS
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/EmiliaNatkaniec_FPS.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.3155] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="c55898924b3e44c6460bb98205f397be"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.247009
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-08106F8F4C6213DC90EE7CBF3F597BF1
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (23H2) [10.0.22631.3155] (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2024.03.12-08.37.57:903][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2024.03.12-08.37.57:903][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2024.03.12-08.37.57:903][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2024.03.12-08.37.57:903][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2024.03.12-08.37.57:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2024.03.12-08.37.57:904][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2024.03.12-08.37.57:904][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.03.12-08.37.57:905][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2024.03.12-08.37.57:925][  0]LogD3D12RHI: Aftermath initialized
+[2024.03.12-08.37.57:925][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2024.03.12-08.37.58:083][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2024.03.12-08.37.58:083][  0]LogD3D12RHI: Adapter has 6009MB of dedicated video memory, 0MB of dedicated system memory, and 8055MB of shared system memory, 1 output[s]
+[2024.03.12-08.37.58:134][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2024.03.12-08.37.58:134][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8055MB of shared system memory, 0 output[s]
+[2024.03.12-08.37.58:153][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2024.03.12-08.37.58:153][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8055MB of shared system memory, 0 output[s]
+[2024.03.12-08.37.58:154][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2024.03.12-08.37.58:154][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.03.12-08.37.58:154][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2024.03.12-08.37.58:154][  0]LogHAL: Display: Platform has ~ 16 GB [16893382656 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.03.12-08.37.58:154][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2024.03.12-08.37.58:154][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.03.12-08.37.58:154][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.03.12-08.37.58:154][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2024.03.12-08.37.58:154][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Saved/Config/WindowsEditor/Editor.ini]
+[2024.03.12-08.37.58:155][  0]LogInit: Computer: EMI_DELL
+[2024.03.12-08.37.58:155][  0]LogInit: User: emili
+[2024.03.12-08.37.58:155][  0]LogInit: CPU Page size=4096, Cores=8
+[2024.03.12-08.37.58:155][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.03.12-08.37.58:155][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2024.03.12-08.37.58:155][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.03.12-08.37.58:155][  0]LogMemory: Process Physical Memory: 281.25 MB used, 293.32 MB peak
+[2024.03.12-08.37.58:155][  0]LogMemory: Process Virtual Memory: 248.41 MB used, 248.41 MB peak
+[2024.03.12-08.37.58:155][  0]LogMemory: Physical Memory: 9530.78 MB used,  6580.00 MB free, 16110.79 MB total
+[2024.03.12-08.37.58:155][  0]LogMemory: Virtual Memory: 12049.08 MB used,  6877.71 MB free, 18926.79 MB total
+[2024.03.12-08.37.58:155][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2024.03.12-08.37.58:289][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.03.12-08.37.58:303][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2024.03.12-08.37.58:303][  0]LogInit: Using OS detected language (pl-PL).
+[2024.03.12-08.37.58:303][  0]LogInit: Using OS detected locale (pl-PL).
+[2024.03.12-08.37.58:307][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so 'pl' will be used for the language.
+[2024.03.12-08.37.58:308][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2024.03.12-08.37.58:308][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2024.03.12-08.37.58:308][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2024.03.12-08.37.58:308][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2024.03.12-08.37.58:308][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2024.03.12-08.37.58:308][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2024.03.12-08.37.58:308][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2024.03.12-08.37.58:309][  0]LogInit: Setting process to per monitor DPI aware
+[2024.03.12-08.37.58:320][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2024.03.12-08.37.58:320][  0]LogWindowsTextInputMethodSystem:   - Polski (Polska) - (Keyboard).
+[2024.03.12-08.37.58:320][  0]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2024.03.12-08.37.58:330][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.03.12-08.37.58:330][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.03.12-08.37.58:407][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2024.03.12-08.37.58:410][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2024.03.12-08.37.58:410][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2024.03.12-08.37.58:477][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2024.03.12-08.37.58:505][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2024.03.12-08.37.58:511][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2024.03.12-08.37.58:520][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2024.03.12-08.37.58:541][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2024.03.12-08.37.58:541][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2024.03.12-08.37.58:561][  0]LogD3D12RHI:     GPU DeviceId: 0x2560 (for the marketing name, search the web for "GPU Device Id")
+[2024.03.12-08.37.58:561][  0]LogWindows: Attached monitors:
+[2024.03.12-08.37.58:561][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2024.03.12-08.37.58:561][  0]LogWindows: Found 1 attached monitors.
+[2024.03.12-08.37.58:561][  0]LogWindows: EnumDisplayDevices:
+[2024.03.12-08.37.58:561][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2024.03.12-08.37.58:561][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2024.03.12-08.37.58:562][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2024.03.12-08.37.58:562][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2024.03.12-08.37.58:562][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY5'
+[2024.03.12-08.37.58:562][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY6'
+[2024.03.12-08.37.58:562][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY7'
+[2024.03.12-08.37.58:562][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:0 D:0), name: '\\.\DISPLAY8'
+[2024.03.12-08.37.58:562][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.03.12-08.37.58:562][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2024.03.12-08.37.58:562][  0]LogD3D12RHI:   Driver Version: 528.79 (internal:31.0.15.2879, unified:528.79)
+[2024.03.12-08.37.58:562][  0]LogD3D12RHI:      Driver Date: 3-9-2023
+[2024.03.12-08.37.58:562][  0]LogRHI: Texture pool is 3301 MB (70% of 4716 MB)
+[2024.03.12-08.37.58:562][  0]LogD3D12RHI: Async texture creation enabled
+[2024.03.12-08.37.58:562][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2024.03.12-08.37.58:574][  0]LogRHI: GeForceNow SDK initialized: 0
+[2024.03.12-08.37.58:579][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/EmiliaNatkaniec_FPS.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Intermediate/TurnkeyReport_0.log" -log="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Intermediate/TurnkeyLog_0.log" -project="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/EmiliaNatkaniec_FPS.uproject"  -platform=all'
+[2024.03.12-08.37.58:579][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/EmiliaNatkaniec_FPS.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Intermediate/TurnkeyReport_0.log" -log="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Intermediate/TurnkeyLog_0.log" -project="C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/EmiliaNatkaniec_FPS.uproject"  -platform=all" ]
+[2024.03.12-08.37.58:601][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2024.03.12-08.37.58:608][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2024.03.12-08.37.58:608][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.03.12-08.37.58:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.03.12-08.37.58:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2024.03.12-08.37.58:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2024.03.12-08.37.58:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.03.12-08.37.58:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.03.12-08.37.58:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.03.12-08.37.58:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2024.03.12-08.37.58:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.03.12-08.37.58:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.03.12-08.37.58:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2024.03.12-08.37.58:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2024.03.12-08.37.58:641][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2024.03.12-08.37.58:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.03.12-08.37.58:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.03.12-08.37.58:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.03.12-08.37.58:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2024.03.12-08.37.58:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.03.12-08.37.58:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.03.12-08.37.58:649][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2024.03.12-08.37.58:655][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.03.12-08.37.58:658][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2024.03.12-08.37.58:658][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2024.03.12-08.37.58:658][  0]LogTargetPlatformManager:   ADPCM
+[2024.03.12-08.37.58:658][  0]LogTargetPlatformManager:   PCM
+[2024.03.12-08.37.58:661][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2024.03.12-08.37.58:661][  0]LogTargetPlatformManager:   BINKA
+[2024.03.12-08.37.58:661][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2024.03.12-08.37.58:661][  0]LogTargetPlatformManager:   OGG
+[2024.03.12-08.37.58:661][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2024.03.12-08.37.58:661][  0]LogTargetPlatformManager:   OPUS
+[2024.03.12-08.37.58:731][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2024.03.12-08.37.58:731][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   SF_METAL
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2024.03.12-08.37.58:736][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2024.03.12-08.37.58:738][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2024.03.12-08.37.58:738][  0]LogTargetPlatformManager:   VVM_1_0
+[2024.03.12-08.37.58:738][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2024.03.12-08.37.58:738][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2024.03.12-08.37.58:738][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2024.03.12-08.37.58:739][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2024.03.12-08.37.58:739][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2024.03.12-08.37.58:739][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.03.12-08.37.58:739][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2024.03.12-08.37.58:739][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.03.12-08.37.58:740][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2024.03.12-08.37.58:740][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2024.03.12-08.37.58:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.03.12-08.37.58:743][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2024.03.12-08.37.58:743][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.12-08.37.58:743][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2024.03.12-08.37.58:760][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2024.03.12-08.37.58:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.12-08.37.58:760][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2024.03.12-08.37.58:765][  0]LogDerivedDataCache: Speed tests for C:/Users/emili/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2024.03.12-08.37.58:765][  0]LogDerivedDataCache: Display: Performance to C:/Users/emili/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=2170.65MBs, RandomWriteSpeed=228.28MBs. Assigned SpeedClass 'Local'
+[2024.03.12-08.37.58:766][  0]LogDerivedDataCache: Using Local data cache path C:/Users/emili/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.03.12-08.37.58:766][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.03.12-08.37.58:766][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2024.03.12-08.37.58:772][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2024.03.12-08.37.58:772][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2024.03.12-08.37.58:773][  0]LogShaderCompilers: Guid format shader working directory is -53 characters bigger than the processId version (../../../../../../Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Intermediate/Shaders/WorkingDirectory/17928/).
+[2024.03.12-08.37.58:773][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/emili/AppData/Local/Temp/UnrealShaderWorkingDir/F030A7DF48AC87FB04F90293418A5C3A/'.
+[2024.03.12-08.37.58:773][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.03.12-08.37.58:773][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2024.03.12-08.37.59:940][  0]LogSlate: Using FreeType 2.10.0
+[2024.03.12-08.37.59:940][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.03.12-08.37.59:971][  0]LogAssetRegistry: FAssetRegistry took 0.0101 seconds to start up
+[2024.03.12-08.37.59:975][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2024.03.12-08.38.00:161][  0]LogSerialization: UsePackageTrailer: 'false'
+[2024.03.12-08.38.00:162][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2024.03.12-08.38.00:338][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2024.03.12-08.38.00:338][  0]LogDeviceProfileManager: Active device profile: [0000041E75A139C0][0000041E6B450000 50] WindowsEditor
+[2024.03.12-08.38.00:338][  0]LogDeviceProfileManager: Profiles: [0000041E75A13B80][0000041E5C600000 50] Windows, [0000041E75A139C0][0000041E6B450000 50] WindowsEditor, [0000041E75A13100][0000041E75A50000 50] WindowsServer, [0000041E75A11500][0000041E75A55000 50] WindowsClient, [0000041E75A10700][0000041E75A57800 50] IOS, [0000041E75A124C0][0000041E75A5A000 50] iPadAir2, [0000041E75A155C0][0000041E6B452800 50] IPadPro, [0000041E75A15940][0000041E75A5C800 50] iPadAir3, [0000041E75A14600][0000041E75A70000 50] iPadAir4, [0000041E75A15240][0000041E75A75000 50] iPadMini4, [0000041E75A11880][0000041E75A77800 50] iPadMini5, [0000041E75A14EC0][0000041E75A7A000 50] iPadMini6, [0000041E75A16580][0000041E75AD0000 50] iPhone6S, [0000041E75A18F80][0000041E75AD2800 50] iPhone7, [0000041E75A19300][0000041E75AD5000 50] iPodTouch7, [0000041E75A16040][0000041E75ADA000 50] iPhone6SPlus, [0000041E75A17FC0][0000041E75ADC800 50] iPhone7Plus, [0000041E75A18A40][0000041E75A52800 50] iPhoneSE, [0000041E75A15B00][0000041E75A7C800 50] iPhone8, [0000041E75A116C0][0000041E75AD7800 50] iPhone8Plus, [0000041E75A18500][0000041E75A80000 50] iPhoneX, [0000041E75A13640][0000041E75A85000 50] iPhoneXS, [0000041E75A13800][0000041E75A87800 50] iPhoneXSMax, [0000041E75A16200][0000041E75A8A000 50] iPhoneXR, [0000041E75A16E40][0000041E75A8C800 50] iPhone11, [0000041E75A132C0][0000041E75A72800 50] iPhone11Pro, [0000041E75A12140][0000041E75A90000 50] iPhone11ProMax, [0000041E75A17E00][0000041E75A95000 50] iPhoneSE2, [0000041E75A18DC0][0000041E75A97800 50] iPhone12Mini, [0000041E75A12A00][0000041E75A9A000 50] iPhone12, [0000041E75A19BC0][0000041E75A9C800 50] iPhone12Pro, [0000041E75A18340][0000041E75A82800 50] iPhone12ProMax, [0000041E75A11DC0][0000041E75AA0000 50] iPhone13Mini, [0000041E75A15E80][0000041E75AA5000 50] iPhone13, [0000041E75A14980][0000041E75AA7800 50] iPhone13Pro, [0000041E75A17C40][0000041E75AAA000 50] iPhone13ProMax, [0000041E75A15780][0000041E75AAC800 50] iPadPro105, [0000041E75A11180][0000041E75A92800 50] iPadPro129, [0000041E75A14280][0000041E75AB0000 50] iPadPro97, [0000041E75A12840][0000041E75AB5000 50] iPadPro2_129, [0000041E75A147C0][0000041E75AB7800 50] iPad5, [0000041E75A11340][0000041E75ABA000 50] iPad6, [0000041E75A10E00][0000041E75ABC800 50] iPad7, [0000041E75A186C0][0000041E75AA2800 50] iPad8, [0000041E75A171C0][0000041E75AC0000 50] iPad9, [0000041E75A19840][0000041E75AC5000 50] iPadPro11, [0000041E75A17A80][0000041E75AC7800 50] iPadPro2_11, [0000041E75A11F80][0000041E75ACA000 50] iPadPro3_11, [0000041E75A10380][0000041E75ACC800 50] iPadPro3_129, [0000041E75A15080][0000041E75AB2800 50] iPadPro4_129, [0000041E75A194C0][0000041E75AF0000 50] iPadPro5_129, [0000041E75A12680][0000041E75AF5000 50] AppleTV, [0000041E75A13F00][0000041E75AF7800 50] AppleTV4K, [0000041E75A17380][0000041E75AFA000 50] TVOS, [0000041E75A1AB80][0000041E75AC2800 50] Mac, [0000041E75A1A9C0][0000041E75AFC800 50] MacEditor, [0000041E75A1A2C0][0000041E75B00000 50] MacClient, [0000041E75A1A100][0000041E75B05000 50] MacServer, [0000041E75A1B440][0000041E75B0A000 50] Linux, [0000041E75A1B7C0][0000041E75B07800 50] LinuxEditor, [0000041E75A17700][0000041E75B0C800 50] LinuxArm64Editor, [0000041E75A1AD40][0000041E75AF2800 50] LinuxArm64, [0000041E75A19680][0000041E75B10000 50] LinuxClient, [0000041E75A10540][0000041E75B15000 50] LinuxArm64Client, [0000041E75A10C40][0000041E75B17800 50] LinuxServer, [0000041E75A16C80][0000041E75B1A000 50] LinuxArm64Server, [0000041E75A12BC0][0000041E75B1C800 50] Android, [0000041E75A19140][0000041E75B02800 50] Android_Preview_OpenGL, [0000041E75A16740][0000041E75B20000 50] Android_Preview_Vulkan, [0000041E75A1B0C0][0000041E75B25000 50] Android_Low, [0000041E75A1B980][0000041E75B27800 50] Android_Mid, [0000041E75A10FC0][0000041E75B2A000 50] Android_High, [0000041E75A13480][0000041E75B2C800 50] Android_Default, [0000041E75A14D00][0000041E75B12800 50] Android_Adreno4xx, [0000041E75A15400][0000041E75B30000 50] Android_Adreno5xx_Low, [0000041E75A1A480][0000041E75B35000 50] Android_Adreno5xx, [0000041E75A17000][0000041E75B37800 50] Android_Adreno6xx, [0000041E75A108C0][0000041E75B3A000 50] Android_Adreno6xx_Vulkan, [0000041E75A18880][0000041E75B3C800 50] Android_Adreno7xx, [0000041E75A101C0][0000041E75B22800 50] Android_Adreno7xx_Vulkan, [0000041E75A10000][0000041E75B40000 50] Android_Mali_T6xx, [0000041E75A19A00][0000041E75B45000 50] Android_Mali_T7xx, [0000041E75A12D80][0000041E75B47800 50] Android_Mali_T8xx, [0000041E75A18C00][0000041E75B4A000 50] Android_Mali_G71, [0000041E75A1AF00][0000041E75B4C800 50] Android_Mali_G72, [0000041E75A19F40][0000041E75B32800 50] Android_Mali_G72_Vulkan, [0000041E75A1A800][0000041E75B50000 50] Android_Mali_G76, [0000041E75A16AC0][0000041E75B55000 50] Android_Mali_G76_Vulkan, [0000041E75A1B600][0000041E75B57800 50] Android_Mali_G77, [0000041E75A1CB00][0000041E75B5A000 50] Android_Mali_G77_Vulkan, [0000041E75A11C00][0000041E75B5C800 50] Android_Mali_G78, [0000041E75A178C0][0000041E75B42800 50] Android_Mali_G78_Vulkan, [0000041E75A16900][0000041E75B60000 50] Android_Mali_G710, [0000041E75A19D80][0000041E75B65000 50] Android_Mali_G710_Vulkan, [0000041E75A1A640][0000041E75B67800 50] Android_Xclipse_920, [0000041E75A18180][0000041E75B6A000 50] Android_Xclipse_920_Vulkan, [0000041E75A14440][0000041E75B6C800 50] Android_Vulkan_SM5, [0000041E75A17540][0000041E75B52800 50] Android_PowerVR_G6xxx, [0000041E75A1C940][0000041E75B70000 50] Android_PowerVR_GT7xxx, [0000041E75A11A40][0000041E75B75000 50] Android_PowerVR_GE8xxx, [0000041E75A12F40][0000041E75B77800 50] Android_PowerVR_GM9xxx, [0000041E75A1BB40][0000041E75B7A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000041E75A1C5C0][0000041E75B7C800 50] Android_TegraK1, [0000041E75A1D900][0000041E75B62800 50] Android_Unknown_Vulkan, [0000041E75A12300][0000041E75B80000 50] Oculus_Quest, [0000041E75A1BEC0][0000041E75B85000 50] Oculus_Quest2, [0000041E75A1EA80][0000041E75B87800 50] HoloLens, 
+[2024.03.12-08.38.00:338][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2024.03.12-08.38.00:355][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2024.03.12-08.38.00:517][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.03.12-08.38.00:517][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.03.12-08.38.00:517][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.03.12-08.38.00:517][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.03.12-08.38.00:517][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.03.12-08.38.00:529][  0]LogNetVersion: EmiliaNatkaniec_FPS 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 114181307)
+[2024.03.12-08.38.00:626][  0]LogSlate: Border
+[2024.03.12-08.38.00:626][  0]LogSlate: BreadcrumbButton
+[2024.03.12-08.38.00:626][  0]LogSlate: Default
+[2024.03.12-08.38.00:626][  0]LogSlate: Icons.Save
+[2024.03.12-08.38.00:626][  0]LogSlate: Icons.Toolbar.Settings
+[2024.03.12-08.38.00:626][  0]LogSlate: ListView
+[2024.03.12-08.38.00:626][  0]LogSlate: SoftwareCursor_CardinalCross
+[2024.03.12-08.38.00:626][  0]LogSlate: SoftwareCursor_Grab
+[2024.03.12-08.38.00:626][  0]LogSlate: TableView.DarkRow
+[2024.03.12-08.38.00:626][  0]LogSlate: TableView.Row
+[2024.03.12-08.38.00:626][  0]LogSlate: TreeView
+[2024.03.12-08.38.00:759][  0]SourceControl: Source control is disabled
+[2024.03.12-08.38.00:782][  0]SourceControl: Source control is disabled
+[2024.03.12-08.38.00:782][  0]SourceControl: Source control is disabled
+[2024.03.12-08.38.00:881][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2024.03.12-08.38.00:882][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2024.03.12-08.38.00:882][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.03.12-08.38.01:078][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CB25BBFF462F2FFEFE3D9EB475990E73 | Instance: 3E5307B84F63B6D690F4008859995AA8 (EMI_DELL-17928).
+[2024.03.12-08.38.01:248][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.03.12-08.38.01:252][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.03.12-08.38.01:268][  0]LogPython: Using Python 3.9.7
+[2024.03.12-08.38.01:913][  0]SourceControl: Source control is disabled
+[2024.03.12-08.38.01:932][  0]SourceControl: Source control is disabled
+[2024.03.12-08.38.01:934][  0]SourceControl: Source control is disabled
+[2024.03.12-08.38.02:005][  0]LogUProjectInfo: Found projects:
+[2024.03.12-08.38.02:009][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.03.12-08.38.02:010][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.03.12-08.38.02:010][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.03.12-08.38.02:199][  0]LogOpenImageDenoise: OIDN starting up
+[2024.03.12-08.38.02:234][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.03.12-08.38.02:248][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.12-08.38.02:248][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.12-08.38.02:328][  0]LogCollectionManager: Loaded 0 collections in 0.002003 seconds
+[2024.03.12-08.38.02:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Saved/Collections/' took 0.00s
+[2024.03.12-08.38.02:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Content/Developers/emili/Collections/' took 0.00s
+[2024.03.12-08.38.02:391][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Content/Collections/' took 0.00s
+[2024.03.12-08.38.02:622][  0]LogEngine: Initializing Engine...
+[2024.03.12-08.38.02:632][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2024.03.12-08.38.02:634][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.03.12-08.38.02:827][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.03.12-08.38.02:827][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.03.12-08.38.02:836][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.12-08.38.02:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.03.12-08.38.02:863][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.03.12-08.38.02:880][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.03.12-08.38.02:881][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.03.12-08.38.02:881][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.03.12-08.38.02:881][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.03.12-08.38.02:881][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.03.12-08.38.02:881][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.12-08.38.02:881][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.12-08.38.02:881][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.12-08.38.02:881][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.12-08.38.02:881][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.12-08.38.02:881][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.12-08.38.02:881][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.12-08.38.02:881][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.12-08.38.02:882][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.12-08.38.02:882][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.12-08.38.02:882][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.12-08.38.02:888][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.12-08.38.03:175][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.12-08.38.03:175][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.12-08.38.03:177][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.12-08.38.03:177][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.12-08.38.03:177][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.03.12-08.38.03:177][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.03.12-08.38.03:179][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.03.12-08.38.03:179][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.03.12-08.38.03:179][  0]LogInit: FAudioDevice initialized.
+[2024.03.12-08.38.03:179][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.03.12-08.38.03:179][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.03.12-08.38.03:180][  0]LogInit: Texture streaming: Enabled
+[2024.03.12-08.38.03:207][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2024.03.12-08.38.03:214][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.03.12-08.38.03:232][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.03.12-08.38.03:238][  0]LogLiveCoding: Display: Starting LiveCoding
+[2024.03.12-08.38.03:238][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2024.03.12-08.38.04:512][  0]LogLiveCoding: Display: First instance in process group "UE_EmiliaNatkaniec_FPS_0x348004b8", spawning console
+[2024.03.12-08.38.04:512][  0]LogLiveCoding: Display: Waiting for server
+[2024.03.12-08.38.04:512][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2024.03.12-08.38.04:531][  0]LogInit: Transaction tracking system initialized
+[2024.03.12-08.38.04:594][  0]BlueprintLog: New page: Editor Load
+[2024.03.12-08.38.04:747][  0]LocalizationService: Localization service is disabled
+[2024.03.12-08.38.04:788][  0]TimingProfiler: Initialize
+[2024.03.12-08.38.04:789][  0]TimingProfiler: OnSessionChanged
+[2024.03.12-08.38.04:789][  0]LoadingProfiler: Initialize
+[2024.03.12-08.38.04:789][  0]LoadingProfiler: OnSessionChanged
+[2024.03.12-08.38.04:789][  0]NetworkingProfiler: Initialize
+[2024.03.12-08.38.04:789][  0]NetworkingProfiler: OnSessionChanged
+[2024.03.12-08.38.04:789][  0]MemoryProfiler: Initialize
+[2024.03.12-08.38.04:789][  0]MemoryProfiler: OnSessionChanged
+[2024.03.12-08.38.04:935][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.03.12-08.38.04:936][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.03.12-08.38.04:937][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.03.12-08.38.05:333][  0]LogFileCache: Scanning file cache for directory 'C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Content/' took 0.00s
+[2024.03.12-08.38.05:333][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.03.12-08.38.05:425][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.03.12-08.38.05:426][  0]SourceControl: Source control is disabled
+[2024.03.12-08.38.05:426][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.407
+[2024.03.12-08.38.05:427][  0]LightingResults: New page: Lighting Build
+[2024.03.12-08.38.05:432][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.03.12-08.38.05:432][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-08.38.05:432][  0]MapCheck: New page: Map Check
+[2024.03.12-08.38.05:432][  0]LightingResults: New page: Lighting Build
+[2024.03.12-08.38.05:438][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.12-08.38.05:441][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.03.12-08.38.05:578][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2024.03.12-08.38.05:581][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2024.03.12-08.38.05:587][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2024.03.12-08.38.05:592][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2024.03.12-08.38.05:606][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2024.03.12-08.38.05:606][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.03.12-08.38.05:606][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.12-08.38.05:607][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.03.12-08.38.05:662][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.12-08.38.05:671][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.03.12-08.38.05:671][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.12-08.38.05:671][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,178ms to complete.
+[2024.03.12-08.38.05:671][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.246
+[2024.03.12-08.38.05:682][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.663
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: ================================================
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.03.12-08.38.05:683][  0]LogShaderCompilers: Display: ================================================
+[2024.03.12-08.38.05:765][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2024.03.12-08.38.05:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-08.38.05:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-08.38.05:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-08.38.05:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.12-08.38.05:870][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:870][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:872][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:872][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:873][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:873][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:874][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:874][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:875][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:875][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:876][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:876][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:877][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:877][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:878][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:878][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:880][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:880][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:881][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2024.03.12-08.38.05:881][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2024.03.12-08.38.05:882][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2024.03.12-08.38.06:108][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.12-08.38.06:113][  0]LogSlate: Took 0.000689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.12-08.38.06:114][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.12-08.38.06:115][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.12-08.38.06:117][  0]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.12-08.38.06:137][  0]LogViewport: Scene viewport resized to 1385x848, mode Windowed.
+[2024.03.12-08.38.06:875][  0]LogStall: Startup...
+[2024.03.12-08.38.06:876][  0]LogStall: Startup complete.
+[2024.03.12-08.38.06:913][  0]LogLoad: (Engine Initialization) Total time: 9.89 seconds
+[2024.03.12-08.38.06:913][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.03.12-08.38.06:971][  0]LogAssetRegistry: Asset discovery search completed in 7.0027 seconds
+[2024.03.12-08.38.06:978][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2024.03.12-08.38.06:997][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.03.12-08.38.07:160][  2]LogSlate: Took 0.000664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.12-08.39.59:077][637]LogDerivedDataCache: C:/Users/emili/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.282 and deleted 0 file(s) with total size 0 MiB.
+[2024.03.12-08.40.40:032][758]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.03.12-08.40.40:032][758]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.03.12-08.40.40:032][758]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Content/Developers/emili/Collections/' because it could not be accessed. Aborting watch request...
+[2024.03.12-08.40.51:825][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.03.12-08.40.52:024][370]LogMaterial: Display: Missing cached shadermap for brick_wall_beige in PCD3D_SM5, Default, SM5 (DDC key hash: 2E34C2595A4BBA832D036DD46197E96B34C47E9F), compiling. 
+[2024.03.12-08.40.52:156][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/brick_wall_tiling_g.brick_wall_tiling_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:156][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/brick_wall_tiling_n.brick_wall_tiling_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:156][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/brick_wall_tiling_c_beige.brick_wall_tiling_c_beige (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:156][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/brick_wall_tiling_c_dark_red.brick_wall_tiling_c_dark_red (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:156][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/brick_wall_tiling_c_red.brick_wall_tiling_c_red (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:156][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/brick_wall_tiling_c_orange.brick_wall_tiling_c_orange (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:156][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/bricks_red_c.bricks_red_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:156][370]LogMaterial: Display: Missing cached shadermap for brick_wall_dark_red in PCD3D_SM5, Default, SM5 (DDC key hash: 41BA319974FB135B93F3AE68A117461A2CD39ED9), compiling. 
+[2024.03.12-08.40.52:200][370]LogMaterial: Display: Missing cached shadermap for brick_wall_orange in PCD3D_SM5, Default, SM5 (DDC key hash: 60CD595A265C7CBDAB693A64C5D8F47527FD0EE9), compiling. 
+[2024.03.12-08.40.52:246][370]LogMaterial: Display: Missing cached shadermap for brick_wall_red in PCD3D_SM5, Default, SM5 (DDC key hash: A5B5726049C840CAB84A4855EA11FFFFA32FCA18), compiling. 
+[2024.03.12-08.40.52:293][370]LogMaterial: Display: Missing cached shadermap for bricks_red in PCD3D_SM5, Default, SM5 (DDC key hash: 246D4D6B1B1265DAF47B5A616AA06835773B7495), compiling. 
+[2024.03.12-08.40.52:333][370]LogMaterial: Display: Missing cached shadermap for tile_trim_clean___default in PCD3D_SM5, Default, SM5 (DDC key hash: BA7C9F095CAE204A1994FC0B1CB12BA3AAEA3C03), compiling. 
+[2024.03.12-08.40.52:378][370]LogMaterial: Display: Missing cached shadermap for metal_trim_clean___default in PCD3D_SM5, Default, SM5 (DDC key hash: 82626258B37E11709019FF1961682F87DC779E5B), compiling. 
+[2024.03.12-08.40.52:437][370]LogMaterial: Display: Missing cached shadermap for tile_trim_clean__color_pckr in PCD3D_SM5, Default, SM5 (DDC key hash: A76DDBCD57A55ED7577833096F761B2EADE769FF), compiling. 
+[2024.03.12-08.40.52:484][370]LogMaterial: Display: Missing cached shadermap for metal_trim__color_pckr in PCD3D_SM5, Default, SM5 (DDC key hash: B7CE3980A98D5E3ADCADA886BF124BFC9FCB70E5), compiling. 
+[2024.03.12-08.40.52:530][370]LogMaterial: Display: Missing cached shadermap for metal_trim_clean__color_pckr in PCD3D_SM5, Default, SM5 (DDC key hash: 9AAFA964C05041DB4B46F83683D2EE581DB3C069), compiling. 
+[2024.03.12-08.40.52:578][370]LogMaterial: Display: Missing cached shadermap for metal_trim___default in PCD3D_SM5, Default, SM5 (DDC key hash: 2647BDB943FC687A79E4793A049AF187F367AABF), compiling. 
+[2024.03.12-08.40.52:619][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_1x1.beam_metal_window_divider_1x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:619][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_4x1.beam_metal_window_divider_4x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:619][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_5x1.beam_metal_window_divider_5x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:619][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_corner.beam_metal_window_divider_corner should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:619][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1_top.beam_pillar_metal_1_top should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:619][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2.beam_pillar_metal_1x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:620][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2_tiling.beam_pillar_metal_1x2_tiling should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:620][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x4.beam_pillar_metal_1x4 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:620][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_corner_top.beam_pillar_metal_corner_top should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:626][370]LogMaterial: Display: Missing cached shadermap for tile_trim___default in PCD3D_SM5, Default, SM5 (DDC key hash: 12D58717420A8058D9B6E29D62B628AED3A02684), compiling. 
+[2024.03.12-08.40.52:667][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_tiles_corner_bottom.beam_pillar_tiles_corner_bottom should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:673][370]LogStaticMesh: Display: Building static mesh beam_metal_window_divider_1x1...
+[2024.03.12-08.40.52:673][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_1x1.beam_metal_window_divider_1x1
+[2024.03.12-08.40.52:673][370]LogMaterial: Display: Missing cached shadermap for metal_trim__roughness+color_pckr in PCD3D_SM5, Default, SM5 (DDC key hash: 49A21A47B9635B6DC1E241597FB1E376B926EBA6), compiling. 
+[2024.03.12-08.40.52:710][370]LogStaticMesh: Display: Building static mesh beam_metal_window_divider_4x1...
+[2024.03.12-08.40.52:710][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_4x1.beam_metal_window_divider_4x1
+[2024.03.12-08.40.52:710][370]LogStaticMesh: Display: Building static mesh beam_metal_window_divider_5x1...
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_5x1.beam_metal_window_divider_5x1
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Display: Building static mesh beam_metal_window_divider_corner...
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_metal_window_divider_corner.beam_metal_window_divider_corner
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Display: Building static mesh beam_pillar_metal_1_top...
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1_top.beam_pillar_metal_1_top
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Display: Building static mesh beam_pillar_metal_1x2...
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2.beam_pillar_metal_1x2
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Display: Building static mesh beam_pillar_metal_1x2_tiling...
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x2_tiling.beam_pillar_metal_1x2_tiling
+[2024.03.12-08.40.52:711][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_a.deco_building_electrical_beam_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:711][370]LogStaticMesh: Display: Building static mesh beam_pillar_metal_1x4...
+[2024.03.12-08.40.52:711][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_b.deco_building_electrical_beam_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:711][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_wire_a.deco_building_electrical_wire_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:711][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_wire_b.deco_building_electrical_wire_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:712][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_exhaust_vent.deco_building_exhaust_vent should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Display: Building static mesh beam_pillar_metal_corner_top...
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_1x4.beam_pillar_metal_1x4
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Display: Building static mesh beam_pillar_tiles_corner_bottom...
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_corner_top.beam_pillar_metal_corner_top
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_tiles_corner_bottom.beam_pillar_tiles_corner_bottom
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Display: Building static mesh beam_pillar_metal_corner_top...
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Display: Building static mesh deco_building_electrical_beam_a...
+[2024.03.12-08.40.52:723][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Beams_Pillars/beam_pillar_metal_corner_top.beam_pillar_metal_corner_top
+[2024.03.12-08.40.52:723][370]LogMaterial: Display: Missing cached shadermap for cloth_awning_intact__default in PCD3D_SM5, Default, SM5 (DDC key hash: E5EB1C6718D83FFC09B77F62239D555907B35E6B), compiling. 
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_a.deco_building_electrical_beam_a
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Display: Building static mesh deco_building_electrical_beam_b...
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Display: Building static mesh deco_building_electrical_beam_a...
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_b.deco_building_electrical_beam_b
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_a.deco_building_electrical_beam_a
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Display: Building static mesh deco_building_electrical_beam_b...
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Display: Building static mesh deco_building_electrical_wire_a...
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_beam_b.deco_building_electrical_beam_b
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Display: Building static mesh deco_building_electrical_wire_b...
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_wire_b.deco_building_electrical_wire_b
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_electrical_wire_a.deco_building_electrical_wire_a
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Display: Building static mesh deco_building_exhaust_vent...
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_exhaust_vent.deco_building_exhaust_vent
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Display: Building static mesh deco_building_exhaust_vent...
+[2024.03.12-08.40.52:841][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_building_exhaust_vent.deco_building_exhaust_vent
+[2024.03.12-08.40.52:841][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_store_awning_intact_4x1.deco_store_awning_intact_4x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:854][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/bricks_red_g.bricks_red_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:854][370]LogMaterial: Display: Missing cached shadermap for cloth_awning_torn__default in PCD3D_SM5, Default, SM5 (DDC key hash: 1BE1A50FC97B96799557EB88B5C14BF94C18761D), compiling. 
+[2024.03.12-08.40.52:921][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/bricks_red_n.bricks_red_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.52:921][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_store_awning_torn_4x1.deco_store_awning_torn_4x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:921][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_airconditioning.deco_windows_airconditioning should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:921][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_a.deco_windows_panel_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:921][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_b.deco_windows_panel_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:921][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_c.deco_windows_panel_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:922][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_d.deco_windows_panel_d should be resaved to improve async compilation performance.
+[2024.03.12-08.40.52:934][370]LogMaterial: Display: Missing cached shadermap for stickers_decals in PCD3D_SM5, Default, SM5 (DDC key hash: 033CADEB5B6BEB43E6D1B24E4A66CFF4A1A86C1A), compiling. 
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Display: Building static mesh deco_store_awning_intact_4x1...
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Built static mesh [0.02s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_store_awning_intact_4x1.deco_store_awning_intact_4x1
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Display: Building static mesh deco_store_awning_torn_4x1...
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Display: Building static mesh deco_windows_airconditioning...
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Display: Building static mesh deco_store_awning_intact_4x1...
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_airconditioning.deco_windows_airconditioning
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Display: Building static mesh deco_windows_panel_a...
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_a.deco_windows_panel_a
+[2024.03.12-08.40.53:002][370]LogStaticMesh: Display: Building static mesh deco_windows_panel_b...
+[2024.03.12-08.40.53:003][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_b.deco_windows_panel_b
+[2024.03.12-08.40.53:003][370]LogStaticMesh: Built static mesh [0.02s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_store_awning_torn_4x1.deco_store_awning_torn_4x1
+[2024.03.12-08.40.53:003][370]LogStaticMesh: Built static mesh [0.02s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_store_awning_intact_4x1.deco_store_awning_intact_4x1
+[2024.03.12-08.40.53:003][370]LogStaticMesh: Display: Building static mesh deco_windows_panel_c...
+[2024.03.12-08.40.53:003][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_poster_lost_chicken.decal_poster_lost_chicken should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:003][370]LogStaticMesh: Display: Building static mesh deco_windows_panel_d...
+[2024.03.12-08.40.53:003][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_health_code.decal_sign_store_health_code should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:003][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_hours.decal_sign_store_hours should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:003][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/tiles_wall_clean_c.tiles_wall_clean_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.53:003][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_sorry_open.decal_sign_store_sorry_open should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:004][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_c.deco_windows_panel_c
+[2024.03.12-08.40.53:004][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_alarm_warning.decal_sticker_alarm_warning should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:004][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_address_a.decal_sticker_store_address_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:004][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_address_b.decal_sticker_store_address_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:004][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_pull.decal_sticker_store_pull should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:004][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_push.decal_sticker_store_push should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:005][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Building_Deco/deco_windows_panel_d.deco_windows_panel_d
+[2024.03.12-08.40.53:005][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_1x1_a.beam_roof_trim_1x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:005][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a.beam_roof_trim_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:005][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a_interior.beam_roof_trim_4x1_a_interior should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:005][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_1x1_a_interior.beam_roof_trim_corner_1x1_a_interior should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:005][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_2x2_a.beam_roof_trim_corner_2x2_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:005][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_2x2_b.beam_roof_trim_corner_2x2_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:006][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a.beam_roof_trim_corner_4x4_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:006][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a_interior.beam_roof_trim_corner_4x4_a_interior should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:006][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_5x4_a.beam_roof_trim_corner_5x4_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:006][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_5x4_a_interior.beam_roof_trim_corner_5x4_a_interior should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:006][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_end_cap_a.beam_roof_trim_end_cap_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:006][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_end_cap_b.beam_roof_trim_end_cap_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:021][370]LogStaticMesh: Display: Building static mesh decal_poster_lost_chicken...
+[2024.03.12-08.40.53:021][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_poster_lost_chicken.decal_poster_lost_chicken
+[2024.03.12-08.40.53:021][370]LogMaterial: Display: Missing cached shadermap for dirt_pebble_pile in PCD3D_SM5, Default, SM5 (DDC key hash: BCD1397F11960A4899DDEC80A55A75112BED165B), compiling. 
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_poster_lost_chicken...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_poster_lost_chicken.decal_poster_lost_chicken
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sign_store_health_code...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sign_store_hours...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sign_store_sorry_open...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_hours.decal_sign_store_hours
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_health_code.decal_sign_store_health_code
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_sorry_open.decal_sign_store_sorry_open
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sticker_alarm_warning...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sign_store_sorry_open...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sticker_store_address_a...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_alarm_warning.decal_sticker_alarm_warning
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sign_store_sorry_open.decal_sign_store_sorry_open
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_address_a.decal_sticker_store_address_a
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sticker_store_address_b...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sticker_store_pull...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh decal_sticker_store_push...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_address_b.decal_sticker_store_address_b
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_pull.decal_sticker_store_pull
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Decals_Stickers_Posters/decal_sticker_store_push.decal_sticker_store_push
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_4x1_a...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_1x1_a...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_1x1_a.beam_roof_trim_1x1_a
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a.beam_roof_trim_4x1_a
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_4x1_a_interior...
+[2024.03.12-08.40.53:083][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_4x1_a...
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_1x1_a...
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a_interior.beam_roof_trim_4x1_a_interior
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a.beam_roof_trim_4x1_a
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_4x1_a_interior...
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_1x1_a.beam_roof_trim_1x1_a
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_4x1_a_interior.beam_roof_trim_4x1_a_interior
+[2024.03.12-08.40.53:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/tiles_wall_clean_g.tiles_wall_clean_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_1x1_a_interior...
+[2024.03.12-08.40.53:084][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_2x2_a...
+[2024.03.12-08.40.53:084][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Rubble_Piles/rubble_dirt_pebble_pile_a.rubble_dirt_pebble_pile_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:090][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_2x2_b...
+[2024.03.12-08.40.53:090][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_1x1_a_interior.beam_roof_trim_corner_1x1_a_interior
+[2024.03.12-08.40.53:090][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_2x2_b.beam_roof_trim_corner_2x2_b
+[2024.03.12-08.40.53:090][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_1x1_a_interior...
+[2024.03.12-08.40.53:090][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_2x2_a.beam_roof_trim_corner_2x2_a
+[2024.03.12-08.40.53:090][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_1x1_a_interior.beam_roof_trim_corner_1x1_a_interior
+[2024.03.12-08.40.53:090][370]LogMaterial: Display: Missing cached shadermap for trash_pile in PCD3D_SM5, Default, SM5 (DDC key hash: 06AD55F77826263AD117A2FDAA536C8D88CA1199), compiling. 
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_4x4_a...
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_5x4_a...
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_4x4_a_interior...
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a.beam_roof_trim_corner_4x4_a
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_4x4_a...
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_5x4_a.beam_roof_trim_corner_5x4_a
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a_interior.beam_roof_trim_corner_4x4_a_interior
+[2024.03.12-08.40.53:127][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a.beam_roof_trim_corner_4x4_a
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_5x4_a...
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_4x4_a_interior...
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_5x4_a.beam_roof_trim_corner_5x4_a
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_4x4_a_interior.beam_roof_trim_corner_4x4_a_interior
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_end_cap_a...
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_5x4_a_interior...
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_end_cap_b...
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_end_cap_a.beam_roof_trim_end_cap_a
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_end_cap_b.beam_roof_trim_end_cap_b
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_5x4_a_interior.beam_roof_trim_corner_5x4_a_interior
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Display: Building static mesh beam_roof_trim_corner_5x4_a_interior...
+[2024.03.12-08.40.53:128][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Roof_Trims/beam_roof_trim_corner_5x4_a_interior.beam_roof_trim_corner_5x4_a_interior
+[2024.03.12-08.40.53:128][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Rubble_Piles/rubble_trash_pile_a.rubble_trash_pile_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:135][370]LogMaterial: Display: Missing cached shadermap for black_interior in PCD3D_SM5, Default, SM5 (DDC key hash: 1D3E4491A41078E2C04162F46EE773DFAB5889E1), compiling. 
+[2024.03.12-08.40.53:182][370]LogStaticMesh: Display: Building static mesh rubble_dirt_pebble_pile_a...
+[2024.03.12-08.40.53:182][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Rubble_Piles/rubble_dirt_pebble_pile_a.rubble_dirt_pebble_pile_a
+[2024.03.12-08.40.53:182][370]LogStaticMesh: Display: Building static mesh rubble_trash_pile_a...
+[2024.03.12-08.40.53:182][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Rubble_Piles/rubble_trash_pile_a.rubble_trash_pile_a
+[2024.03.12-08.40.53:182][370]LogMaterial: Display: Missing cached shadermap for Glass in PCD3D_SM5, Default, SM5 (DDC key hash: C3354D3224DB3DAF1BE53FD40B7330061CF19B84), compiling. 
+[2024.03.12-08.40.53:282][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/beam_window_supports_metal_ao.beam_window_supports_metal_ao (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.53:282][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_a.store_front_door_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:282][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_b.store_front_door_4x1_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:292][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/tiles_wall_clean_n.tiles_wall_clean_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.53:293][370]LogMaterial: Display: Missing cached shadermap for Glass_Cracked in PCD3D_SM5, Default, SM5 (DDC key hash: B363974ED32673C3966A1A33FF50ED7F1C30FA24), compiling. 
+[2024.03.12-08.40.53:360][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_5x1_a.store_front_door_5x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:367][370]LogStaticMesh: Display: Building static mesh store_front_door_4x1_b...
+[2024.03.12-08.40.53:368][370]LogMaterial: Display: Missing cached shadermap for metal_shutters in PCD3D_SM5, Default, SM5 (DDC key hash: F1105BB6E59F72505B4A632D78C25A1F30FB1FD1), compiling. 
+[2024.03.12-08.40.53:406][370]LogStaticMesh: Display: Building static mesh store_front_door_4x1_a...
+[2024.03.12-08.40.53:406][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_b.store_front_door_4x1_b
+[2024.03.12-08.40.53:406][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_a.store_front_door_4x1_a
+[2024.03.12-08.40.53:406][370]LogStaticMesh: Display: Building static mesh store_front_door_4x1_b...
+[2024.03.12-08.40.53:406][370]LogStaticMesh: Display: Building static mesh store_front_door_4x1_a...
+[2024.03.12-08.40.53:406][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_b.store_front_door_4x1_b
+[2024.03.12-08.40.53:406][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_4x1_a.store_front_door_4x1_a
+[2024.03.12-08.40.53:406][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_3x1_a.store_front_shutters_3x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:406][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_4x1_a.store_front_shutters_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:416][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/beam_window_supports_metal_clean_c.beam_window_supports_metal_clean_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.53:417][370]LogMaterial: Display: Missing cached shadermap for Glass_Shards in PCD3D_SM5, Default, SM5 (DDC key hash: E12C6F0427BB23BB48B95846B034CF73D6E7925A), compiling. 
+[2024.03.12-08.40.53:481][370]LogStaticMesh: Display: Building static mesh store_front_door_5x1_a...
+[2024.03.12-08.40.53:481][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/beam_window_supports_metal_clean_g.beam_window_supports_metal_clean_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.53:481][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:482][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_b.store_front_windows_broken_4x1_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:482][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_c.store_front_windows_broken_4x1_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:482][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_a.store_front_windows_intact_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:483][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_b.store_front_windows_intact_4x1_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:483][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:484][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_a_left.store_front_door_a_left should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:484][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_a_right.store_front_door_a_right should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:484][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_left.store_front_door_b_left should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:484][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_right.store_front_door_b_right should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:486][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_4x1_a.store_front_door_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:486][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_4x1_b.store_front_door_4x1_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:486][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_5x1_a.store_front_door_5x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:487][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:487][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_b.store_front_windows_broken_4x1_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:487][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_c.store_front_windows_broken_4x1_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:487][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_a.store_front_windows_intact_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:488][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_b.store_front_windows_intact_4x1_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:488][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:495][370]LogMaterial: Display: Missing cached shadermap for store_signs in PCD3D_SM5, Default, SM5 (DDC key hash: 3539A804D8464B87F68EE95683AC53239EC6C96B), compiling. 
+[2024.03.12-08.40.53:535][370]LogStaticMesh: Display: Building static mesh store_front_shutters_3x1_a...
+[2024.03.12-08.40.53:535][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_3x1_a.store_front_shutters_3x1_a
+[2024.03.12-08.40.53:535][370]LogStaticMesh: Display: Building static mesh store_front_shutters_3x1_a...
+[2024.03.12-08.40.53:535][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_3x1_a.store_front_shutters_3x1_a
+[2024.03.12-08.40.53:535][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/beam_window_supports_metal_clean_n.beam_window_supports_metal_clean_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.53:535][370]LogStaticMesh: Display: Building static mesh store_front_shutters_4x1_a...
+[2024.03.12-08.40.53:535][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_a.sign_store_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:536][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_a1.sign_store_a1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:536][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_b.sign_store_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:536][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_b1.sign_store_b1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:536][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_broken_d.sign_store_broken_d should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:537][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_c.sign_store_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:537][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_c1.sign_store_c1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:537][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_intact_d.sign_store_intact_d should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:538][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_a.windows_building_upper_4x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:538][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_b.windows_building_upper_4x1_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:538][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_c.windows_building_upper_4x1_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:538][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_d.windows_building_upper_4x1_d should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:538][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_5x1_a.windows_building_upper_5x1_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:546][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_4x1_a.store_front_shutters_4x1_a
+[2024.03.12-08.40.53:546][370]LogStaticMesh: Display: Building static mesh store_front_shutters_4x1_a...
+[2024.03.12-08.40.53:546][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_shutters_4x1_a.store_front_shutters_4x1_a
+[2024.03.12-08.40.53:546][370]LogMaterial: Display: Missing cached shadermap for brick_wall_grey in PCD3D_SM5, Default, SM5 (DDC key hash: FECA118AE46632B88014185E25506CC1AB0B4A1F), compiling. 
+[2024.03.12-08.40.53:585][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_a...
+[2024.03.12-08.40.53:585][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a
+[2024.03.12-08.40.53:585][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_a...
+[2024.03.12-08.40.53:585][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a
+[2024.03.12-08.40.53:585][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_clmn_1x2.upper_brick_clmn_1x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:585][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_clmn_dvdr_1x1.upper_brick_clmn_dvdr_1x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:585][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_l_2x2.upper_brick_wall_a_l_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:585][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_l_3x2.upper_brick_wall_a_l_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:585][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_r_2x2.upper_brick_wall_a_r_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:585][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_r_3x2.upper_brick_wall_a_r_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:593][370]LogMaterial: Display: Missing cached shadermap for concrete_trim in PCD3D_SM5, Default, SM5 (DDC key hash: 0B0E0C8CD37A3E5C45FFB8685E3BB6FE9BEA7242), compiling. 
+[2024.03.12-08.40.53:656][370]LogMaterial: Display: Missing cached shadermap for Glass_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 819BCC09EC033A3AC4A3D62D0653DA67854EAE10), compiling. 
+[2024.03.12-08.40.53:697][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_b...
+[2024.03.12-08.40.53:697][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_b.store_front_windows_broken_4x1_b
+[2024.03.12-08.40.53:697][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_b...
+[2024.03.12-08.40.53:697][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_b.store_front_windows_broken_4x1_b
+[2024.03.12-08.40.53:697][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_l_2x2.upper_brick_wndw_a_l_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:697][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_l_3x2.upper_brick_wndw_a_l_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_r_2x2.upper_brick_wndw_a_r_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_r_3x2.upper_brick_wndw_a_r_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_2x2.upper_brick_wndw_b_l_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_3x2.upper_brick_wndw_b_l_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_r_2x2.upper_brick_wndw_b_r_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_r_3x2.upper_brick_wndw_b_r_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_l_2x2.upper_brick_wndw_c_l_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_l_3x2.upper_brick_wndw_c_l_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_r_2x2.upper_brick_wndw_c_r_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:698][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_r_3x2.upper_brick_wndw_c_r_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:699][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_d_2x2.upper_brick_wndw_d_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:699][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_d_3x2.upper_brick_wndw_d_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:699][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_balcony.deco_fire_escape_balcony should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:699][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder.deco_fire_escape_ladder should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:699][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder_top.deco_fire_escape_ladder_top should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:699][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_0x2.deco_upper_blocks_0x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:700][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_cnr_0x2.deco_upper_blocks_cnr_0x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:700][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_cnr_1x2.deco_upper_blocks_cnr_1x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:700][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_a.deco_upper_ornament_flower_a should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:700][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_b.deco_upper_ornament_flower_b should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:700][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_c.deco_upper_ornament_flower_c should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:700][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_l_2x2.mid_brick_wndw_cnr_l_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:700][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_l_3x2.mid_brick_wndw_cnr_l_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:701][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_r_2x2.mid_brick_wndw_cnr_r_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:701][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_r_3x2.mid_brick_wndw_cnr_r_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:701][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_l_2x2.mid_brick_wndw_l_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:701][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_l_3x2.mid_brick_wndw_l_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:701][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_r_2x2.mid_brick_wndw_r_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:701][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_r_3x2.mid_brick_wndw_r_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_1x1.beam_upper_roof_trim_a_1x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_4x1.beam_upper_roof_trim_a_4x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_2x2.beam_upper_roof_trim_a_cnr_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_4x4.beam_upper_roof_trim_a_cnr_4x4 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_1x1.beam_upper_roof_trim_b_1x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_4x1.beam_upper_roof_trim_b_4x1 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_2x2.beam_upper_roof_trim_b_cnr_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_4x4.beam_upper_roof_trim_b_cnr_4x4 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:702][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_end_l.beam_upper_roof_trim_end_l should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:703][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_end_r.beam_upper_roof_trim_end_r should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:709][370]LogMaterial: Display: Missing cached shadermap for ground_gravel_dirt in PCD3D_SM5, Default, SM5 (DDC key hash: DD61B4A79ECF1CFDB6B1FDC8004D21BF42F44FDB), compiling. 
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_c...
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_c.store_front_windows_broken_4x1_c
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_c...
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_broken_4x1_c.store_front_windows_broken_4x1_c
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_b...
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_a...
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_b.store_front_windows_intact_4x1_b
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_a.store_front_windows_intact_4x1_a
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_a...
+[2024.03.12-08.40.53:747][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_a.store_front_windows_intact_4x1_a
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_ground_3x3.plane_ground_3x3 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_ground_4x4.plane_ground_4x4 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_3x2.plane_wall_3x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_3x3.plane_wall_3x3 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_left_2x2.plane_wall_left_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_left_2x3.plane_wall_left_2x3 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_right_2x2.plane_wall_right_2x2 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:748][370]LogStaticMesh: StaticMesh /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_right_2x3.plane_wall_right_2x3 should be resaved to improve async compilation performance.
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_c...
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_c...
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Display: Building static mesh store_front_door_a_left...
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Display: Building static mesh store_front_door_a_right...
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Display: Building static mesh store_front_door_b_left...
+[2024.03.12-08.40.53:768][370]LogStaticMesh: Display: Building static mesh store_front_door_b_right...
+[2024.03.12-08.40.53:793][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_1x1) ...
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Built static mesh [0.06s] /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_left.store_front_door_b_left
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Built static mesh [0.41s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_5x1_a.store_front_door_5x1_a
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Warning: Mesh store_front_door_b_left is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_left.store_front_door_b_left.
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Built static mesh [0.06s] /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_right.store_front_door_b_right
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Display: Building static mesh store_front_door_5x1_a...
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_a_1x1...
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Warning: Mesh store_front_door_b_right is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_b_right.store_front_door_b_right.
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Built static mesh [0.08s] /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_a_right.store_front_door_a_right
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Warning: Mesh store_front_door_a_right is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_a_right.store_front_door_a_right.
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_1x1.beam_upper_roof_trim_a_1x1
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Display: Building static mesh store_front_door_4x1_a...
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Display: Building static mesh store_front_door_4x1_b...
+[2024.03.12-08.40.53:860][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_4x1) ...
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Display: Building static mesh store_front_door_5x1_a...
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Built static mesh [0.11s] /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_a_left.store_front_door_a_left
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_a_4x1...
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Warning: Mesh store_front_door_a_left is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_doors/store_front_door_a_left.store_front_door_a_left.
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_4x1.beam_upper_roof_trim_a_4x1
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_b...
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_a...
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_c...
+[2024.03.12-08.40.53:894][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_2x2) ...
+[2024.03.12-08.40.54:063][370]LogStaticMesh: Built static mesh [0.14s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_b.store_front_windows_broken_4x1_b
+[2024.03.12-08.40.54:063][370]LogStaticMesh: Warning: Mesh store_front_windows_broken_4x1_b is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_b.store_front_windows_broken_4x1_b.
+[2024.03.12-08.40.54:063][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_a_cnr_2x2...
+[2024.03.12-08.40.54:063][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_2x2.beam_upper_roof_trim_a_cnr_2x2
+[2024.03.12-08.40.54:063][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_a...
+[2024.03.12-08.40.54:063][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_4x4) ...
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Built static mesh [0.35s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_4x1_b.store_front_door_4x1_b
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Warning: Mesh store_front_door_4x1_b is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_4x1_b.store_front_door_4x1_b.
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_a_cnr_4x4...
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Built static mesh [0.38s] /Game/ModularBuildingSet/Meshes/Store_fronts/store_front_door_5x1_a.store_front_door_5x1_a
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_a_cnr_4x4.beam_upper_roof_trim_a_cnr_4x4
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_b...
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Display: Building static mesh store_front_windows_intact_4x1_c...
+[2024.03.12-08.40.54:232][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_1x1) ...
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Built static mesh [0.38s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_c.store_front_windows_broken_4x1_c
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Warning: Mesh store_front_windows_broken_4x1_c is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_c.store_front_windows_broken_4x1_c.
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_b_1x1...
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_1x1.beam_upper_roof_trim_b_1x1
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_b_1x1...
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_1x1.beam_upper_roof_trim_b_1x1
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Display: Building static mesh sign_store_a...
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_a.sign_store_a
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_b_4x1...
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_4x1.beam_upper_roof_trim_b_4x1
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_b_4x1...
+[2024.03.12-08.40.54:319][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_4x1) ...
+[2024.03.12-08.40.54:345][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_4x1.beam_upper_roof_trim_b_4x1
+[2024.03.12-08.40.54:345][370]LogStaticMesh: Display: Building static mesh sign_store_a1...
+[2024.03.12-08.40.54:345][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_a1.sign_store_a1
+[2024.03.12-08.40.54:345][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_b_cnr_2x2...
+[2024.03.12-08.40.54:345][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_2x2) ...
+[2024.03.12-08.40.54:368][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_2x2.beam_upper_roof_trim_b_cnr_2x2
+[2024.03.12-08.40.54:368][370]LogStaticMesh: Display: Building static mesh sign_store_b...
+[2024.03.12-08.40.54:368][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_b.sign_store_b
+[2024.03.12-08.40.54:368][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_b_cnr_4x4...
+[2024.03.12-08.40.54:368][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_4x4) ...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_b_cnr_4x4.beam_upper_roof_trim_b_cnr_4x4
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.15s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_b.store_front_windows_intact_4x1_b
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Warning: Mesh store_front_windows_intact_4x1_b is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_b.store_front_windows_intact_4x1_b.
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh sign_store_b1...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_end_l...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_end_l.beam_upper_roof_trim_end_l
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_b1.sign_store_b1
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh beam_upper_roof_trim_end_r...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh sign_store_broken_d...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Roof_Trims/beam_upper_roof_trim_end_r.beam_upper_roof_trim_end_r
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_broken_d.sign_store_broken_d
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh sign_store_c...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh sign_store_broken_d...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_c.sign_store_c
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh sign_store_c1...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_broken_d.sign_store_broken_d
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_c1.sign_store_c1
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh sign_store_intact_d...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh deco_fire_escape_balcony...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_intact_d.sign_store_intact_d
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh sign_store_intact_d...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_balcony.deco_fire_escape_balcony
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh deco_fire_escape_balcony...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Store_Signs/sign_store_intact_d.sign_store_intact_d
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Building static mesh windows_building_upper_4x1_a...
+[2024.03.12-08.40.54:410][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_balcony) ...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_balcony.deco_fire_escape_balcony
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_4x1_b...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_a.windows_building_upper_4x1_a
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_b.windows_building_upper_4x1_b
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_4x1_a...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh deco_fire_escape_ladder...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_a.windows_building_upper_4x1_a
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder.deco_fire_escape_ladder
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh deco_fire_escape_ladder...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_4x1_c...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder.deco_fire_escape_ladder
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_c.windows_building_upper_4x1_c
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_4x1_d...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_4x1_c...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_d.windows_building_upper_4x1_d
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_c.windows_building_upper_4x1_c
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_4x1_d...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh deco_fire_escape_ladder_top...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_4x1_d.windows_building_upper_4x1_d
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder_top.deco_fire_escape_ladder_top
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_5x1_a...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh deco_fire_escape_ladder_top...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_5x1_a.windows_building_upper_5x1_a
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_fire_escape_ladder_top.deco_fire_escape_ladder_top
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh windows_building_upper_5x1_a...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh upper_brick_clmn_1x2...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_clmn_1x2.upper_brick_clmn_1x2
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Store_Upper_Wndws/windows_building_upper_5x1_a.windows_building_upper_5x1_a
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh upper_brick_clmn_dvdr_1x1...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh upper_brick_wall_a_l_2x2...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_clmn_dvdr_1x1.upper_brick_clmn_dvdr_1x1
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_l_2x2.upper_brick_wall_a_l_2x2
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh upper_brick_wall_a_l_3x2...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh deco_upper_blocks_0x2...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_l_3x2.upper_brick_wall_a_l_3x2
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh upper_brick_wall_a_r_2x2...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_r_2x2.upper_brick_wall_a_r_2x2
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Display: Building static mesh upper_brick_wall_a_r_3x2...
+[2024.03.12-08.40.54:455][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wall_a_r_3x2.upper_brick_wall_a_r_3x2
+[2024.03.12-08.40.54:456][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_0x2) ...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_a_l_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_l_2x2.upper_brick_wndw_a_l_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_a_l_3x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_l_3x2.upper_brick_wndw_a_l_3x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_a_r_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_r_2x2.upper_brick_wndw_a_r_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_a_r_3x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_a_r_3x2.upper_brick_wndw_a_r_3x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_l_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_2x2.upper_brick_wndw_b_l_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_l_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_2x2.upper_brick_wndw_b_l_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_l_3x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_3x2.upper_brick_wndw_b_l_3x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_l_3x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_l_3x2.upper_brick_wndw_b_l_3x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_r_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_r_2x2.upper_brick_wndw_b_r_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_r_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.05s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_0x2.deco_upper_blocks_0x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_r_2x2.upper_brick_wndw_b_r_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_r_3x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_r_3x2.upper_brick_wndw_b_r_3x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_c_l_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_b_r_3x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_b_r_3x2.upper_brick_wndw_b_r_3x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh deco_upper_blocks_cnr_0x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_l_2x2.upper_brick_wndw_c_l_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_c_l_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_cnr_0x2.deco_upper_blocks_cnr_0x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_l_2x2.upper_brick_wndw_c_l_2x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_c_l_3x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh deco_upper_blocks_cnr_1x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_l_3x2.upper_brick_wndw_c_l_3x2
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_c_r_2x2...
+[2024.03.12-08.40.54:533][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_cnr_1x2) ...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_r_2x2.upper_brick_wndw_c_r_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_c_r_2x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_r_2x2.upper_brick_wndw_c_r_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_c_r_3x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_r_3x2.upper_brick_wndw_c_r_3x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_c_r_3x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_c_r_3x2.upper_brick_wndw_c_r_3x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_d_2x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.02s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_d_2x2.upper_brick_wndw_d_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_d_2x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.36s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Warning: Mesh store_front_windows_intact_4x1_c is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_c.store_front_windows_intact_4x1_c.
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh upper_brick_wndw_d_3x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.75s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_4x1_a.store_front_door_4x1_a
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Warning: Mesh store_front_door_4x1_a is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_4x1_a.store_front_door_4x1_a.
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.02s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_d_2x2.upper_brick_wndw_d_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh deco_upper_ornament_flower_a...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_a.deco_upper_ornament_flower_a
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh deco_upper_ornament_flower_b...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh deco_upper_ornament_flower_c...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_b.deco_upper_ornament_flower_b
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_ornament_flower_c.deco_upper_ornament_flower_c
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_cnr_l_2x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_cnr_l_3x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_l_2x2.mid_brick_wndw_cnr_l_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_l_3x2.mid_brick_wndw_cnr_l_3x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.03s] /Game/ModularBuildingSet/Meshes/Upper_Brick_Wndws/upper_brick_wndw_d_3x2.upper_brick_wndw_d_3x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_cnr_r_2x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_cnr_r_3x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_l_2x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_r_2x2.mid_brick_wndw_cnr_r_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_cnr_r_3x2.mid_brick_wndw_cnr_r_3x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_l_2x2.mid_brick_wndw_l_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_l_3x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_r_2x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh mid_brick_wndw_r_3x2...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_r_2x2.mid_brick_wndw_r_2x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_l_3x2.mid_brick_wndw_l_3x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.01s] /Game/ModularBuildingSet/Meshes/Upper_Mid_Wndws/mid_brick_wndw_r_3x2.mid_brick_wndw_r_3x2
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Built static mesh [0.76s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh plane_ground_4x4...
+[2024.03.12-08.40.54:721][370]LogStaticMesh: Display: Building static mesh plane_ground_3x3...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_ground_4x4.plane_ground_4x4
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_ground_3x3.plane_ground_3x3
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Building static mesh plane_wall_3x2...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Warning: Mesh store_front_windows_broken_4x1_a is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a.
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Building static mesh store_front_windows_broken_4x1_a...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Building static mesh plane_wall_3x3...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Building static mesh plane_wall_left_2x2...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_3x2.plane_wall_3x2
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_3x3.plane_wall_3x3
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_left_2x2.plane_wall_left_2x2
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Building static mesh plane_wall_left_2x3...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Building static mesh plane_wall_right_2x2...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Building static mesh plane_wall_right_2x3...
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_left_2x3.plane_wall_left_2x3
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_right_2x2.plane_wall_right_2x2
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.00s] /Game/ModularBuildingSet/Meshes/Walls_Grounds/plane_wall_right_2x3.plane_wall_right_2x3
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.61s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_a.store_front_windows_intact_4x1_a
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Warning: Mesh store_front_windows_intact_4x1_a is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_intact_4x1_a.store_front_windows_intact_4x1_a.
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Built static mesh [0.16s] /Game/ModularBuildingSet/Meshes/Upper_Deco/deco_upper_blocks_cnr_1x2.deco_upper_blocks_cnr_1x2
+[2024.03.12-08.40.54:722][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_5x1_a) ...
+[2024.03.12-08.40.55:015][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/tiles_wall_clean_ao.tiles_wall_clean_ao (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:015][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/beam_window_supports_metal_c.beam_window_supports_metal_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:015][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/beam_window_supports_metal_n.beam_window_supports_metal_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:015][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/beam_window_supports_metal_g.beam_window_supports_metal_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:015][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/tiles_wall_broken_c.tiles_wall_broken_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:015][370]LogStaticMesh: Built static mesh [1.12s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_5x1_a.store_front_door_5x1_a
+[2024.03.12-08.40.55:015][370]LogStaticMesh: Warning: Mesh store_front_door_5x1_a is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_door_5x1_a.store_front_door_5x1_a.
+[2024.03.12-08.40.55:015][370]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a) ...
+[2024.03.12-08.40.55:463][370]LogStaticMesh: Built static mesh [0.78s] /Game/ModularBuildingSet/Meshes/Store_fronts_interiors/store_front_windows_broken_4x1_a.store_front_windows_broken_4x1_a
+[2024.03.12-08.40.55:473][370]LogActorComponent: RegisterComponentWithWorld: (/Game/ModularBuildingSet/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsValid() == false. Aborting.
+[2024.03.12-08.40.55:488][370]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ModularBuildingSet/Overview.Overview
+[2024.03.12-08.40.55:489][370]Cmd: MAP LOAD FILE="../../../../../../Users/emili/Desktop/github/EmiliaNatkaniec5/EmiliaNatkaniec5/EmiliaNatkaniec_FPS/Content/ModularBuildingSet/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.12-08.40.55:489][370]LightingResults: New page: Lighting Build
+[2024.03.12-08.40.55:489][370]LoadErrors: New page: Loading map: Overview.umap
+[2024.03.12-08.40.55:534][370]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.03.12-08.40.55:535][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.12-08.40.55:536][370]MapCheck: New page: Map Check
+[2024.03.12-08.40.55:536][370]LightingResults: New page: Lighting Build
+[2024.03.12-08.40.55:553][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.12-08.40.55:560][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.12-08.40.55:595][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/cloth_awning_intact_c.cloth_awning_intact_c (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:595][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/cloth_awning_intact_n.cloth_awning_intact_n (TFO_BC5, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:595][370]LogTexture: Display: Waiting for textures to be ready 21/118 (/Game/ModularBuildingSet/Textures/tiles_wall_broken_g) ...
+[2024.03.12-08.40.55:663][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/cloth_awning_torn_g.cloth_awning_torn_g (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:663][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/cloth_awning_intact_g.cloth_awning_intact_g (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:663][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/cloth_awning_torn_c.cloth_awning_torn_c (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:663][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/signs_decals_stickers_c.signs_decals_stickers_c (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:663][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/cloth_awning_torn_n.cloth_awning_torn_n (TFO_BC5, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:685][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/grunge_dirt_pebble_pile_a_c.grunge_dirt_pebble_pile_a_c (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/grunge_dirt_pebble_pile_a_g.grunge_dirt_pebble_pile_a_g (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/grunge_rubble_pile_c.grunge_rubble_pile_c (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/grunge_dirt_pebble_pile_a_n.grunge_dirt_pebble_pile_a_n (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/grunge_rubble_pile_g.grunge_rubble_pile_g (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/tiles_wall_broken_n.tiles_wall_broken_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/tiles_wall_broken_g.tiles_wall_broken_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/grunge_rubble_pile_n.grunge_rubble_pile_n (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/window_bump_detal_n.window_bump_detal_n (TFO_BC5, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/window_spec.window_spec (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.55:876][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/glass_window_broken_g.glass_window_broken_g (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/glass_window_broken_n.glass_window_broken_n (TFO_BC5, 1024X512 X1X1) (Required Memory Estimate: 10.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/window_store_shutters_c.window_store_shutters_c (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/window_store_shutters_g.window_store_shutters_g (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/glass_shards_c.glass_shards_c (TFO_AutoDXT, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/glass_shards_n.glass_shards_n (TFO_BC5, 1024X256 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/window_store_shutters_n.window_store_shutters_n (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/signs_decals_chinese_stores_c.signs_decals_chinese_stores_c (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:084][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/signs_decals_chinese_stores_g.signs_decals_chinese_stores_g (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:094][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/signs_decals_chinese_stores_n.signs_decals_chinese_stores_n (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:185][370]LogTexture: Display: Waiting for textures to be ready 41/118 (/Game/ModularBuildingSet/Textures/window_store_shutters_g) ...
+[2024.03.12-08.40.56:223][370]LogTexture: Display: Waiting for textures to be ready 48/118 (/Game/ModularBuildingSet/Textures/brick_wall_tiling_c_grey) ...
+[2024.03.12-08.40.56:292][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/concrete_trim_g.concrete_trim_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:505][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/brick_wall_tiling_c_grey.brick_wall_tiling_c_grey (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:505][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/ground_gravel_dirt_g.ground_gravel_dirt_g (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:505][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/concrete_trim_c.concrete_trim_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:505][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/ground_gravel_dirt_c.ground_gravel_dirt_c (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:505][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/ground_gravel_dirt_n.ground_gravel_dirt_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.56:505][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Textures/concrete_trim_n.concrete_trim_n (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:072][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_10 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:072][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:072][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_12 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:072][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_13 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:072][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_15 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:072][370]LogTexture: Display: Waiting for textures to be ready 50/118 (/Game/ModularBuildingSet/Textures/concrete_trim_g) ...
+[2024.03.12-08.40.57:096][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_9 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:096][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap1_11 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:096][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_8 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:096][370]LogTexture: Display: Waiting for textures to be ready 55/118 (/Game/ModularBuildingSet/Overview) ...
+[2024.03.12-08.40.57:131][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap1_14 (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:168][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap1_6 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:198][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap1_7 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:198][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap1_5 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:198][370]LogTexture: Display: Waiting for textures to be ready 60/118 (/Game/ModularBuildingSet/Overview) ...
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_4 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.HQ_Lightmap0_3 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_12 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_13 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_10 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_15 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.57:338][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_1 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_2 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_3 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_8 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_4 (TFO_DXT1, 2048X2048 X1X1) (Required Memory Estimate: 106.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_0_9 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_1_11 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_1_14 (TFO_DXT1, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_1_7 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_1_6 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.LQ_Lightmap_1_5 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_10 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_12 (TFO_AutoDXT, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_13 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_1 (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_15 (TFO_AutoDXT, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_8 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_9 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion1_11 (TFO_AutoDXT, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion1_14 (TFO_AutoDXT, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_3 (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_2 (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion1_5 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion1_6 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion1_7 (TFO_AutoDXT, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.SkyOcclusion0_4 (TFO_AutoDXT, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_0 (BGRA8, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_17 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_18 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:008][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_19 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_21 (BGRA8, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_23 (BGRA8, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_24 (BGRA8, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_1 (BGRA8, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_26 (BGRA8, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_25 (BGRA8, 512X256 X1X1) (Required Memory Estimate: 3.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_20 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_22 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_27 (BGRA8, 256X128 X1X1) (Required Memory Estimate: 0.83334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_6 (BGRA8, 1024X512 X1X1) (Required Memory Estimate: 13.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_2 (BGRA8, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_4 (BGRA8, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_3 (BGRA8, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogTexture: Display: Building textures: /Game/ModularBuildingSet/Overview.ShadowMapTexture2D_5 (BGRA8, 2048X1024 X1X1) (Required Memory Estimate: 53.33334 MB), EncodeSpeed: Fast
+[2024.03.12-08.40.58:010][370]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049472s
